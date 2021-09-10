@@ -168,8 +168,8 @@ Project Link: [https://github.com/millacurafa/SeremiSaludAysenCovid](https://git
 [stars-shield]: https://img.shields.io/github/stars/millacurafa/SeremiSaludAysenCovid.svg?style=for-the-badge
 [stars-url]: https://github.com/millacurafa/SeremiSaludAysenCovid/stargazers
 [issues-shield]: https://img.shields.io/github/issues/millacurafa/SeremiSaludAysenCovid.svg?style=for-the-badge
-[issues-url]: https://github.com/millacurada/SeremiSaludAysenCovid/issues
+[issues-url]: https://github.com/millacurafa/SeremiSaludAysenCovid/issues
 [license-shield]: https://img.shields.io/github/license/millacurafa/SeremiSaludAysenCovid.svg?style=for-the-badge
-[license-url]: https://github.com/millacurafa/SeremiSaludAysenCovid/blob/master/LICENSE.txt
+[license-url]: https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/millacurafa
