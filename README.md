@@ -63,23 +63,39 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre el Proyecto
 
-Multiples archivos contienen datos analizados para obtener gráficos a presentar como
+Multiples archivos `ipynb` contienen datos analizados para obtener gráficos a presentar, tales como:
+
+Datos de incidencia por comuna, disponible en [`reporte_seremi_aysen`](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/reporte_seremi_aysen.ipynb):
 
 ![Incidencia-por-comuna-aysen](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/img/newplot(12).png?raw=true)
 
+Casos probables o Confirmados por comuna, disponible en [`reporte_seremi_aysen`](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/reporte_seremi_aysen.ipynb):
+
 ![casos-por-comuna-aysen](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/img/newplot(13).png?raw=true)
 
-![porcentage-bac-aysen](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/img/newplot(14).png?raw=true)
+Porcentaje BAC, disponible en [`reporte_seremi_aysen`](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/reporte_seremi_aysen.ipynb):
+
+![porcentaje-bac-aysen](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/img/newplot(14).png?raw=true)
+
+Test PCR realizados, disponible en [`reporte_seremi_aysen`](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/reporte_seremi_aysen.ipynb):
 
 ![pcr-realizados-aysen](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/img/newplot(15).png?raw=true)
 
+Positividad de PCR, disponible en [`reporte_seremi_aysen`](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/reporte_seremi_aysen.ipynb):
+
 ![positividad-pcr-aysen](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/img/newplot(16).png?raw=true)
+
+Capacidad de investigación en 48h, disponible en [`tasas_incidencia`](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/tasas_incidencia.ipynb):
 
 ![capacidad-investigacion-aysen](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/img/newplot(17).png?raw=true)
 
+Evolución de variantes principales, disponible en [`informe_variantes`](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/informe_variantes.ipynb):
+
 ![variantes-aysen](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/img/newplot(18).png?raw=true)
 
+Incidencia por comuna, disponible en [`tasas_incidencia`](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/tasas_incidencia.ipynb):
 
+![incidencia-comunal-aysen](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/img/newplot(19).png?raw=true)
 
 
 ### Creado con
@@ -119,10 +135,13 @@ Este es un ejemplo de como instalar las librerias necesarias para utilizar el so
 <!-- USAGE EXAMPLES -->
 ## Ejemplos de Uso
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Los documentos estan presentes en formato [Jupyter notebook](https://jupyter.org/) `*.ipynb` y pueden ser corridos de manera local si las bases de datos son agregadas correctamente en la carpeta data. 
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+La forma más simple de uso es instalar el ambiente virtual de [Anaconda](https://www.anaconda.com/) y posteriormente `plotly` el cual no viene incluido. Adicionalmente, se podrian instalar los requerimientos manualmente como se explica en la sección anterior de `Instalación`.
 
+Celdas pueden ser corridas mediante `Restart kernel and Run all` o una por una mediante `Shift+Enter` o `Ctrl+Enter`/`Cmd+Enter`
+
+![restart-and-run-all](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/img/newplot(20).png?raw=true)
 
 
 <!-- ROADMAP -->
@@ -175,7 +194,7 @@ Link del proyecto: [https://github.com/millacurafa/SeremiSaludAysenCovid](https:
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/millacurafa/repo.svg?style=for-the-badge
 [contributors-url]: https://github.com/millacurafa/SeremiSaludAysenCovid/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/SeremiSaludAysenCovid/SeremiSaludAysenCovid.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/millacurafa/SeremiSaludAysenCovid.svg?style=for-the-badge
 [forks-url]: https://github.com/millacurafa/SeremiSaludAysenCovid/network/members
 [stars-shield]: https://img.shields.io/github/stars/millacurafa/SeremiSaludAysenCovid.svg?style=for-the-badge
 [stars-url]: https://github.com/millacurafa/SeremiSaludAysenCovid/stargazers
