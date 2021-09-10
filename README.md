@@ -17,7 +17,7 @@
   <h3 align="center">Seremi de Salud Aysén</h3>
 
   <p align="center">
-    project_description
+    SeremiSaludAysenCovid
     <br />
     <a href="https://github.com/millacurafa/SeremiSaludAysenCovid"><strong>Explorar la documentación»</strong></a>
     <br />
