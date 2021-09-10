@@ -139,7 +139,7 @@ Los documentos estan presentes en formato [Jupyter notebook](https://jupyter.org
 
 La forma más simple de uso es instalar el ambiente virtual de [Anaconda](https://www.anaconda.com/) y posteriormente `plotly` el cual no viene incluido. Adicionalmente, se podrian instalar los requerimientos manualmente como se explica en la sección anterior de `Instalación`.
 
-Celdas pueden ser corridas haciendo click en `Kernel` y luego `Restart & Run All` o una por una mediante `Shift+Enter` o `Ctrl+Enter`/`Cmd+Enter`
+Celdas pueden ser corridas haciendo click en `Kernel` y luego `Restart & Run All`, o una por una mediante `Shift+Enter` o `Ctrl+Enter`/`Cmd+Enter`
 
 ![restart-and-run-all](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/img/newplot(20).png?raw=true)
 
