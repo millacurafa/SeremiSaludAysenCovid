@@ -67,17 +67,17 @@ Multiples archivos contienen datos analizados para
 
 ![alt text](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/img/newplot(12).png?raw=true)
 
-![alt text](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/img/newplot(13)?raw=true)
+![alt text](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/img/newplot(13).png?raw=true)
 
-![alt text](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/img/newplot(14)?raw=true)
+![alt text](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/img/newplot(14).png?raw=true)
 
-![alt text](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/img/newplot(15)?raw=true)
+![alt text](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/img/newplot(15).png?raw=true)
 
-![alt text](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/img/newplot(16)?raw=true)
+![alt text](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/img/newplot(16).png?raw=true)
 
-![alt text](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/img/newplot(17)?raw=true)
+![alt text](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/img/newplot(17).png?raw=true)
 
-![alt text](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/img/newplot(18)?raw=true)
+![alt text](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/img/newplot(18).png?raw=true)
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
