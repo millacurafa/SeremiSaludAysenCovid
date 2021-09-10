@@ -133,5 +133,16 @@ data/
 *.pdf
 *.pptx
 *.docx
-*.txt
-*.png
+
+reports/_Registro_digital_de_Vacunación_SARS-CoV-2/2021.09.07_VALIDACIÓN DE VACUNAS EN EL EXTRANJERO_01-ig.png
+reports/_Registro_digital_de_Vacunación_SARS-CoV-2/2021.09.07_VALIDACIÓN DE VACUNAS EN EL EXTRANJERO_01-tw.png
+reports/_Registro_digital_de_Vacunación_SARS-CoV-2/2021.09.07_VALIDACIÓN DE VACUNAS EN EL EXTRANJERO_03-ig.png
+reports/_Registro_digital_de_Vacunación_SARS-CoV-2/2021.09.07_VALIDACIÓN DE VACUNAS EN EL EXTRANJERO_03-tw.png
+reports/_Registro_digital_de_Vacunación_SARS-CoV-2/2021.09.07_VALIDACIÓN DE VACUNAS EN EL EXTRANJERO_04-ig.png
+reports/_Registro_digital_de_Vacunación_SARS-CoV-2/2021.09.07_VALIDACIÓN DE VACUNAS EN EL EXTRANJERO_02-ig.png
+reports/_Registro_digital_de_Vacunación_SARS-CoV-2/2021.09.07_VALIDACIÓN DE VACUNAS EN EL EXTRANJERO_04-tw.png
+reports/_Registro_digital_de_Vacunación_SARS-CoV-2/2021.09.07_VALIDACIÓN DE VACUNAS EN EL EXTRANJERO_02-tw.png
+reports/_Registro_digital_de_Vacunación_SARS-CoV-2/2021.09.07_VALIDACIÓN DE VACUNAS EN EL EXTRANJERO_05-ig.png
+dictionaries/Instrucciones cálculo VD.txt
+dictionaries/INSTRUCCIONES CÁLCULO SEGUIMIENTO CASOS.txt
+dictionaries/INSTRUCCIONES CÁLCULO SEGUIMIENTO CE.txt
