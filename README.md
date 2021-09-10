@@ -161,15 +161,15 @@ Project Link: [https://github.com/millacurafa/SeremiSaludAysenCovid](https://git
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/millacurafa/repo.svg?style=for-the-badge
+[contributors-url]: https://github.com/millacurafa/SeremiSaludAysenCovid/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/SeremiSaludAysenCovid/SeremiSaludAysenCovid.svg?style=for-the-badge
+[forks-url]: https://github.com/millacurafa/SeremiSaludAysenCovid/network/members
+[stars-shield]: https://img.shields.io/github/stars/millacurafa/SeremiSaludAysenCovid.svg?style=for-the-badge
+[stars-url]: https://github.com/millacurafa/SeremiSaludAysenCovid/stargazers
+[issues-shield]: https://img.shields.io/github/issues/millacurafa/SeremiSaludAysenCovid.svg?style=for-the-badge
+[issues-url]: https://github.com/millacurada/SeremiSaludAysenCovid/issues
+[license-shield]: https://img.shields.io/github/license/millacurafa/SeremiSaludAysenCovid.svg?style=for-the-badge
+[license-url]: https://github.com/millacurafa/SeremiSaludAysenCovid/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/github_username
+[linkedin-url]: https://linkedin.com/in/millacurafa
