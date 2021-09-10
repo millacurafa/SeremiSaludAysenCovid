@@ -19,14 +19,14 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/millacurafa/SeremiSaludAysenCovid"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/millacurafa/SeremiSaludAysenCovid"><strong>Explorar la documentación»</strong></a>
     <br />
     <br />
-    <a href="https://github.com/millacurafa/SeremiSaludAysenCovid">View Demo</a>
+    <a href="https://github.com/millacurafa/SeremiSaludAysenCovid">Ver Demo</a>
     ·
-    <a href="https://github.com/millacurafa/SeremiSaludAysenCovid/issues">Report Bug</a>
+    <a href="https://github.com/millacurafa/SeremiSaludAysenCovid/issues">Reportar Bug</a>
     ·
-    <a href="https://github.com/millacurafa/SeremiSaludAysenCovid/issues">Request Feature</a>
+    <a href="https://github.com/millacurafa/SeremiSaludAysenCovid/issues">Solicitar característica</a>
   </p>
 </p>
 
@@ -34,34 +34,34 @@
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <summary><h2 style="display: inline-block">Tabla de Contenidos</h2></summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">Sobre el Proyecto</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">Hecho con</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#getting-started">Comenzando</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#usage">Ejemplos de Uso</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#contributing">Contribuciones</a></li>
+    <li><a href="#license">Licencia</a></li>
+    <li><a href="#contact">Contacto</a></li>
+    <li><a href="#acknowledgements">Agradecimientos</a></li>
   </ol>
 </details>
 
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Sobre el Proyecto
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
@@ -70,7 +70,7 @@ Here's a blank template to get started:
 `github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
 
 
-### Built With
+### Creado con
 
 * [Python 3.8.10](https://www.python.org/downloads/release/python-3810/)
 * []()
@@ -79,11 +79,11 @@ Here's a blank template to get started:
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Comenzando
 
 To get a local copy up and running follow these simple steps.
 
-### Prerequisites
+### Prérequisitos
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
@@ -91,7 +91,7 @@ This is an example of how to list things you need to use the software and how to
   npm install npm@latest -g
   ```
 
-### Installation
+### Installación
 
 1. Clone the repo
    ```sh
@@ -105,7 +105,7 @@ This is an example of how to list things you need to use the software and how to
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Ejemplos de Uso
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
@@ -116,39 +116,39 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/millacurafa/SeremiSaludAysenCovid/issues) for a list of proposed features (and known issues).
+Revisa [open issues](https://github.com/millacurafa/SeremiSaludAysenCovid/issues) para ver una lista de las caracteristicas propuestas (y errores conocidos).
 
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Contribuciones
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Las contribuciones son lo que hacen la comunidad de código abierto un excelente lugar de aprendizaje, inspiración y creación. Cualquier contribución que realices será **muy bien recibida**
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. Realiza un Fork del Proyecto
+2. Crea una rama para tu Feature  (`git checkout -b feature/AmazingFeature`)
+3. Haz un Commit de tus cambios (`git commit -m 'Agrega un AmazingFeature'`)
+4. Haz Push de la rama creada (`git push origin feature/AmazingFeature`)
+5. Abre una solicitud de Pull
 
 
 
 <!-- LICENSE -->
-## License
+## Licencia
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distribuido bajo licencia MIT. Ver `LICENSE` para mayor información.
 
 
 
 <!-- CONTACT -->
-## Contact
+## Contacto
 
-Project Link: [https://github.com/millacurafa/SeremiSaludAysenCovid](https://github.com/millacurafa/SeremiSaludAysenCovid)
+Link del proyecto: [https://github.com/millacurafa/SeremiSaludAysenCovid](https://github.com/millacurafa/SeremiSaludAysenCovid)
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+## Agradecimientos
 
 * [Miguel Oyarzo](https://github.com/MiguelOyarzo)
 * [Pablo Briones](https://github.com/pbrionespatagon)
