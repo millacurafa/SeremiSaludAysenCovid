@@ -143,6 +143,9 @@ Celdas pueden ser corridas haciendo click en `Kernel` y luego `Restart & Run All
 
 ![restart-and-run-all](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/img/newplot(20).png?raw=true)
 
+Mayor información disponible dentro de cada archivo 
+
+Éxito en tu exploración!
 
 <!-- ROADMAP -->
 ## Roadmap
