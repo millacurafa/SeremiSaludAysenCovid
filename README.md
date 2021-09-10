@@ -81,25 +81,25 @@ Here's a blank template to get started:
 <!-- GETTING STARTED -->
 ## Comenzando
 
-To get a local copy up and running follow these simple steps.
+Para tener una copia local y funcional sigue los siguientes simples pasos.
 
-### Prérequisitos
+### Pré-requisitos
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+Este es un ejemplo de como instalar las librerias necesarias para utilizar el software correctamente.
+* pip
   ```sh
-  npm install npm@latest -g
+  pip install requirements.txt
   ```
 
-### Installación
+### Instalación
 
-1. Clone the repo
+1. Clona el repositorio
    ```sh
    git clone https://github.com/millacurafa/SeremiSaludAysenCovid.git
    ```
-2. Install Python packages
+2. Instala los paquetes de Python necesarios
    ```sh
-   npm install
+   pip install requirements.txt
    ```
 
 
