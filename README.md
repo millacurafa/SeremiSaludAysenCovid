@@ -72,7 +72,7 @@ Here's a blank template to get started:
 
 ### Built With
 
-* []()
+* [Python 3.8.10](https://www.python.org/downloads/release/python-3810/)
 * []()
 * []()
 
@@ -97,7 +97,7 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    git clone https://github.com/millacurafa/SeremiSaludAysenCovid.git
    ```
-2. Install NPM packages
+2. Install Python packages
    ```sh
    npm install
    ```
