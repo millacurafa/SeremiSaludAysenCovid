@@ -63,25 +63,23 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre el Proyecto
 
-Multiples archivos contienen datos analizados para 
+Multiples archivos contienen datos analizados para obtener gráficos a presentar como
 
-![alt text](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/img/newplot(12).png?raw=true)
+![Incidencia-por-comuna-aysen](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/img/newplot(12).png?raw=true)
 
-![alt text](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/img/newplot(13).png?raw=true)
+![casos-por-comuna-aysen](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/img/newplot(13).png?raw=true)
 
-![alt text](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/img/newplot(14).png?raw=true)
+![porcentage-bac-aysen](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/img/newplot(14).png?raw=true)
 
-![alt text](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/img/newplot(15).png?raw=true)
+![pcr-realizados-aysen](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/img/newplot(15).png?raw=true)
 
-![alt text](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/img/newplot(16).png?raw=true)
+![positividad-pcr-aysen](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/img/newplot(16).png?raw=true)
 
-![alt text](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/img/newplot(17).png?raw=true)
+![capacidad-investigacion-aysen](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/img/newplot(17).png?raw=true)
 
-![alt text](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/img/newplot(18).png?raw=true)
+![variantes-aysen](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/img/newplot(18).png?raw=true)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+
 
 
 ### Creado con
