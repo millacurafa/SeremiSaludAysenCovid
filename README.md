@@ -97,7 +97,7 @@ Incidencia por comuna, disponible en [`tasas_incidencia`](https://github.com/mil
 
 ![incidencia-comunal-aysen](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/img/newplot(19).png?raw=true)
 
-Graficos de Indicadores para comparación intercomunal, disponible en [`indicadores_por_comuna`](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/indicadores_por_comuna.ipynb):
+Gráficos de Indicadores para comparación intercomunal, disponible en [`indicadores_por_comuna`](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/indicadores_por_comuna.ipynb):
 
 ![incidencia-comunal-aysen](https://github.com/millacurafa/SeremiSaludAysenCovid/blob/main/img/newplot(21).png?raw=true)
 
