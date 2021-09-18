@@ -143,9 +143,9 @@ Ahora tienes todo instalado para continuar, solo abre tu instancia de Jupyter
 ```sh
 jupyter notebook
 ```
-Las librerias necesarias serán instaladas directamente desde el Notebook mediante ```python !pip install YourPackage```, una vez instaladas en el ambiente virtual dichas lineas pueden ser 
+Las librerias necesarias serán instaladas directamente desde el Notebook mediante ```!pip install YourPackage```, una vez instaladas en el ambiente virtual dichas lineas pueden ser comentadas
 
-Recuerda detener tu ambiente virtual una vez que dejes de usarlo
+Siempre recuerda detener tu ambiente virtual una vez que dejes de usarlo
 
 ```sh
 conda deactivate
