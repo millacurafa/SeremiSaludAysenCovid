@@ -123,6 +123,33 @@ Este es un ejemplo de como instalar las librerias necesarias para utilizar el so
   ```sh
   pip install requirements.txt
   ```
+### Para usuarios de [Anaconda](https://www.anaconda.com/)
+
+Un nuevo ambiente virtual debe ser generado para correr los scripts en modo compatibilidad con Python 3.8.1. Para esto correr en el Anaconda prompt
+
+```sh
+conda create -n virtualseremiaysen python=3.8.1 anaconda
+```
+
+Esto puede tardar unos minutos si es la primera vez que creas el ambiente virtual.
+
+Posterior a la creación del ambiente virtual debemos activarlo e instalar las librerias necesarias
+
+```sh
+conda activate virtualseremiaysen
+```
+Ahora tienes todo instalado para continuar, solo abre tu instancia de Jupyter
+
+```sh
+jupyter notebook
+```
+Las librerias necesarias serán instaladas directamente desde el Notebook mediante ```!pip install YourPackage```, una vez instaladas en el ambiente virtual dichas lineas pueden ser comentadas
+
+Siempre recuerda detener tu ambiente virtual una vez que dejes de usarlo
+
+```sh
+conda deactivate
+```
 
 ### Instalación
 
