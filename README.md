@@ -145,7 +145,16 @@ jupyter notebook
 ```
 Las librerias necesarias serán instaladas directamente desde el Notebook mediante ```!pip install YourPackage```, una vez instaladas en el ambiente virtual dichas lineas pueden ser comentadas
 
-Siempre recuerda detener tu ambiente virtual una vez que dejes de usarlo
+Para simplificar la vida del usuario se creó un archivo `requirements_to_install.ipynb`
+el cual contiene la linea de código yá escrita. Dicho archivo debe ser corrido una vez previo al uso de los otros 
+
+```sh
+pip install -r requirements.txt
+```
+ 
+En este punto debieras ser capaz de usar todos los archivos sin problemas
+ 
+Para finalzar, siempre recuerda detener tu ambiente virtual una vez que dejes de usarlo
 
 ```sh
 conda deactivate
@@ -159,7 +168,7 @@ conda deactivate
    ```
 2. Instala los paquetes de Python necesarios
    ```sh
-   pip install requirements.txt
+   pip install -r requirements.txt
    ```
 
 
