@@ -236,7 +236,7 @@ Link del proyecto: [https://github.com/millacurafa/SeremiSaludAysenCovid](https:
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/millacurafa/SeremiSaludAysenCovid/repo.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/millacurafa/repo.svg?style=for-the-badge
 [contributors-url]: https://github.com/millacurafa/SeremiSaludAysenCovid/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/millacurafa/SeremiSaludAysenCovid.svg?style=for-the-badge
 [forks-url]: https://github.com/millacurafa/SeremiSaludAysenCovid/network/members
